@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Recycle Viewer App</string>
+    <string name="amaryllis">Amaryllis</string>
+    <string name="amaryllis_description">a flower used for holiday decorations</string>
+    <string name="lilly">Lilly</string>
+    <string name="lilly_description">Popularly used as a girl\'s name</string>
+    <string name="tulip">Tulip</string>
+    <string name="tulip_description">Commonly sold flower in Netherlands</string>
+    <string name="orchid">Orchid</string>
+    <string name="hydrangea">Hydrangea</string>
+    <string name="daisy">Daisy</string>
+    <string name="allium">Allium</string>
+    <string name="azalea">Azalea</string>
+    <string name="sunflower">Sunflower</string>
+    <string name="rose">Rose</string>
+    <string name="poppy">Poppy</string>
+
+    <string-array name="flowers">
+        <item>Lilly</item>
+        <item>Orchid</item>
+        <item>Amaryllis</item>
+        <item>Tulip</item>
+        <item>Hydrangea</item>
+        <item>Daisy</item>
+        <item>Allium</item>
+        <item>Azalea</item>
+        <item>Sunflower</item>
+        <item>Rose</item>
+        <item>Poppy</item>
+        <item>Calla Lily</item>
+        <item>Crocus</item>
+        <item>Lilly1</item>
+        <item>Orchid1</item>
+        <item>Amaryllis1</item>
+        <item>Tulip1</item>
+        <item>Hydrangea1</item>
+        <item>Daisy1</item>
+        <item>Allium1</item>
+        <item>Azalea1</item>
+        <item>Sunflower1</item>
+        <item>Rose1</item>
+        <item>Poppy1</item>
+        <item>Calla Lily1</item>
+        <item>Crocus1</item>
+    </string-array>
+</resources>
